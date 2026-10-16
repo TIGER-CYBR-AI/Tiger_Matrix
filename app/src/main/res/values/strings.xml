@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiger Matrix</string>
+    <string name="widget_description">إضافة سريعة للمهام والملاحظات</string>
+    <string name="accessibility_service_description">اختيارية. تسمح لمساعد Tiger Matrix بالضغط على زر الإرسال داخل واتساب فقط، وفقط بعد أمر منك. ما بتقرأ محادثاتك ولا بتشتغل بأي تطبيق تاني.</string>
+</resources>
